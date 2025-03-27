@@ -1,4 +1,4 @@
-![Github Banner](<img src="![download](https://github.com/user-attachments/assets/ca236b97-be63-42fa-8f50-b1c7d4b61433)" alt="">)
+![Github Banner](https://github.com/user-attachments/assets/ca236b97-be63-42fa-8f50-b1c7d4b61433)
 
 <h1 align="center">Hi, I'm Pasidu Binush<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
+  <a href="https://github.com/PBinush" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
@@ -107,7 +107,7 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://www.linkedin.com/in/iroshanrathnayake/" target="_blank">
+    <a  href="(https://www.linkedin.com/in/pasidu-binush-b46b65310/)" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
   </div>
