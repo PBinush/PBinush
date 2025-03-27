@@ -1,5 +1,4 @@
-![Github Banner](![download](https://github.com/user-attachments/assets/ca236b97-be63-42fa-8f50-b1c7d4b61433)
-)
+<img src="![download](https://github.com/user-attachments/assets/ca236b97-be63-42fa-8f50-b1c7d4b61433)" alt="">
 
 <h1 align="center">Hi, I'm Pasidu Binush<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
